@@ -1,0 +1,5 @@
+"Guid","Comments","Description","IsEscalated","Origin","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","TestURLCase__c","Test_picklist__c","Type"
+1a98b0ff-eefa-411a-8215-cf8694840c57,"#N/A","#N/A",false,Email,"#N/A",Medium,Instructions not clear,Escalated,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Question
+33395c59-8404-437d-9e59-c5682324b9a5,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+66de2d6a-f795-454a-85f9-f93f646f7ae8,"#N/A","#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+d53bbb74-bcbd-49b1-bfa8-ef1355f78575,"#N/A","#N/A",false,Phone,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
